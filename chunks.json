@@ -1,0 +1,892 @@
+[
+  {
+    "id": "FAQ-aster_thermostat_t100-01",
+    "text": "Product: Aster Thermostat T100\nQuestion: What does error E204 mean?\nAnswer: Error E204 indicates Wi-Fi connection lost. Recommended first steps: check 2.4 GHz network, restart router, then reconnect in Settings > Network.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 1
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-02",
+    "text": "Product: Aster Thermostat T100\nQuestion: How do I fix Wi-Fi connection lost?\nAnswer: To address Wi-Fi connection lost, check 2.4 GHz network, restart router, then reconnect in Settings > Network.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 2
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-03",
+    "text": "Product: Aster Thermostat T100\nQuestion: Can I use a 5 GHz Wi-Fi network?\nAnswer: Initial pairing requires a 2.4 GHz Wi-Fi network. Check your router configuration.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 3
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-04",
+    "text": "Product: Aster Thermostat T100\nQuestion: How do I restart the device?\nAnswer: Disconnect power for 15 seconds, restore power, and wait up to two minutes.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 4
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-05",
+    "text": "Product: Aster Thermostat T100\nQuestion: How do I update firmware?\nAnswer: Open the companion app, select the device, then Device Settings > Firmware Update.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 5
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-06",
+    "text": "Product: Aster Thermostat T100\nQuestion: What if the device is still not working?\nAnswer: Record the model, firmware version, and displayed error code, then contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 6
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-07",
+    "text": "Product: Aster Thermostat T100\nQuestion: How do I reset network settings?\nAnswer: In the companion app open Device Settings > Network > Reset Network, then reconnect.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 7
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-08",
+    "text": "Product: Aster Thermostat T100\nQuestion: Why is my device not appearing in the app?\nAnswer: Confirm the device has power, Bluetooth permissions are enabled, and pairing mode is active.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 8
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-09",
+    "text": "Product: Aster Thermostat T100\nQuestion: Can I share access with a family member?\nAnswer: Open Device Settings > Share Access and invite a family member with an email address.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 9
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-10",
+    "text": "Product: Aster Thermostat T100\nQuestion: What is the warranty period?\nAnswer: The fictional standard limited warranty is 12 months from purchase for manufacturing defects.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 10
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-11",
+    "text": "Product: Aster Thermostat T100\nQuestion: What happens if the app loses connection?\nAnswer: Check the phone internet connection, device power, and router status before retrying.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 11
+  },
+  {
+    "id": "FAQ-aster_thermostat_t100-12",
+    "text": "Product: Aster Thermostat T100\nQuestion: How do I troubleshoot temperature readings appear inaccurate?\nAnswer: First compare with a nearby thermometer after 20 minutes away from direct sunlight. If unresolved, collect diagnostics and contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Aster Thermostat T100",
+    "chunk_number": 0,
+    "line_number": 12
+  },
+  {
+    "id": "FAQ-luma_camera_c200-01",
+    "text": "Product: Luma Camera C200\nQuestion: What does error E310 mean?\nAnswer: Error E310 indicates camera offline. Recommended first steps: verify power LED, restart camera, then reconnect to 2.4 GHz Wi-Fi.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 13
+  },
+  {
+    "id": "FAQ-luma_camera_c200-02",
+    "text": "Product: Luma Camera C200\nQuestion: How do I fix camera offline?\nAnswer: To address camera offline, verify power LED, restart camera, then reconnect to 2.4 GHz Wi-Fi.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 14
+  },
+  {
+    "id": "FAQ-luma_camera_c200-03",
+    "text": "Product: Luma Camera C200\nQuestion: Can I use a 5 GHz Wi-Fi network?\nAnswer: Initial pairing requires a 2.4 GHz Wi-Fi network. Check your router configuration.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 15
+  },
+  {
+    "id": "FAQ-luma_camera_c200-04",
+    "text": "Product: Luma Camera C200\nQuestion: How do I restart the device?\nAnswer: Disconnect power for 15 seconds, restore power, and wait up to two minutes.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 16
+  },
+  {
+    "id": "FAQ-luma_camera_c200-05",
+    "text": "Product: Luma Camera C200\nQuestion: How do I update firmware?\nAnswer: Open the companion app, select the device, then Device Settings > Firmware Update.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 17
+  },
+  {
+    "id": "FAQ-luma_camera_c200-06",
+    "text": "Product: Luma Camera C200\nQuestion: What if the device is still not working?\nAnswer: Record the model, firmware version, and displayed error code, then contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 18
+  },
+  {
+    "id": "FAQ-luma_camera_c200-07",
+    "text": "Product: Luma Camera C200\nQuestion: How do I reset network settings?\nAnswer: In the companion app open Device Settings > Network > Reset Network, then reconnect.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 19
+  },
+  {
+    "id": "FAQ-luma_camera_c200-08",
+    "text": "Product: Luma Camera C200\nQuestion: Why is my device not appearing in the app?\nAnswer: Confirm the device has power, Bluetooth permissions are enabled, and pairing mode is active.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 20
+  },
+  {
+    "id": "FAQ-luma_camera_c200-09",
+    "text": "Product: Luma Camera C200\nQuestion: Can I share access with a family member?\nAnswer: Open Device Settings > Share Access and invite a family member with an email address.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 21
+  },
+  {
+    "id": "FAQ-luma_camera_c200-10",
+    "text": "Product: Luma Camera C200\nQuestion: What is the warranty period?\nAnswer: The fictional standard limited warranty is 12 months from purchase for manufacturing defects.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 22
+  },
+  {
+    "id": "FAQ-luma_camera_c200-11",
+    "text": "Product: Luma Camera C200\nQuestion: What happens if the app loses connection?\nAnswer: Check the phone internet connection, device power, and router status before retrying.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 23
+  },
+  {
+    "id": "FAQ-luma_camera_c200-12",
+    "text": "Product: Luma Camera C200\nQuestion: How do I troubleshoot motion alerts are missing?\nAnswer: First enable motion detection and notification permissions in the companion app. If unresolved, collect diagnostics and contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Luma Camera C200",
+    "chunk_number": 0,
+    "line_number": 24
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-01",
+    "text": "Product: Breeze Purifier P300\nQuestion: What does error E118 mean?\nAnswer: Error E118 indicates filter not detected. Recommended first steps: power off, reseat the filter, and close the cover securely.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 25
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-02",
+    "text": "Product: Breeze Purifier P300\nQuestion: How do I fix filter not detected?\nAnswer: To address filter not detected, power off, reseat the filter, and close the cover securely.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 26
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-03",
+    "text": "Product: Breeze Purifier P300\nQuestion: Can I use a 5 GHz Wi-Fi network?\nAnswer: Initial pairing requires a 2.4 GHz Wi-Fi network. Check your router configuration.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 27
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-04",
+    "text": "Product: Breeze Purifier P300\nQuestion: How do I restart the device?\nAnswer: Disconnect power for 15 seconds, restore power, and wait up to two minutes.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 28
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-05",
+    "text": "Product: Breeze Purifier P300\nQuestion: How do I update firmware?\nAnswer: Open the companion app, select the device, then Device Settings > Firmware Update.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 29
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-06",
+    "text": "Product: Breeze Purifier P300\nQuestion: What if the device is still not working?\nAnswer: Record the model, firmware version, and displayed error code, then contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 30
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-07",
+    "text": "Product: Breeze Purifier P300\nQuestion: How do I reset network settings?\nAnswer: In the companion app open Device Settings > Network > Reset Network, then reconnect.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 31
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-08",
+    "text": "Product: Breeze Purifier P300\nQuestion: Why is my device not appearing in the app?\nAnswer: Confirm the device has power, Bluetooth permissions are enabled, and pairing mode is active.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 32
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-09",
+    "text": "Product: Breeze Purifier P300\nQuestion: Can I share access with a family member?\nAnswer: Open Device Settings > Share Access and invite a family member with an email address.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 33
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-10",
+    "text": "Product: Breeze Purifier P300\nQuestion: What is the warranty period?\nAnswer: The fictional standard limited warranty is 12 months from purchase for manufacturing defects.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 34
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-11",
+    "text": "Product: Breeze Purifier P300\nQuestion: What happens if the app loses connection?\nAnswer: Check the phone internet connection, device power, and router status before retrying.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 35
+  },
+  {
+    "id": "FAQ-breeze_purifier_p300-12",
+    "text": "Product: Breeze Purifier P300\nQuestion: How do I troubleshoot airflow seems weak?\nAnswer: First inspect the filter and clear blocked intake vents. If unresolved, collect diagnostics and contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Breeze Purifier P300",
+    "chunk_number": 0,
+    "line_number": 36
+  },
+  {
+    "id": "FAQ-nova_plug_s400-01",
+    "text": "Product: Nova Plug S400\nQuestion: What does error E407 mean?\nAnswer: Error E407 indicates pairing unsuccessful. Recommended first steps: reset pairing mode by holding the button for five seconds and retry on 2.4 GHz Wi-Fi.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 37
+  },
+  {
+    "id": "FAQ-nova_plug_s400-02",
+    "text": "Product: Nova Plug S400\nQuestion: How do I fix pairing unsuccessful?\nAnswer: To address pairing unsuccessful, reset pairing mode by holding the button for five seconds and retry on 2.4 GHz Wi-Fi.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 38
+  },
+  {
+    "id": "FAQ-nova_plug_s400-03",
+    "text": "Product: Nova Plug S400\nQuestion: Can I use a 5 GHz Wi-Fi network?\nAnswer: Initial pairing requires a 2.4 GHz Wi-Fi network. Check your router configuration.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 39
+  },
+  {
+    "id": "FAQ-nova_plug_s400-04",
+    "text": "Product: Nova Plug S400\nQuestion: How do I restart the device?\nAnswer: Disconnect power for 15 seconds, restore power, and wait up to two minutes.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 40
+  },
+  {
+    "id": "FAQ-nova_plug_s400-05",
+    "text": "Product: Nova Plug S400\nQuestion: How do I update firmware?\nAnswer: Open the companion app, select the device, then Device Settings > Firmware Update.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 41
+  },
+  {
+    "id": "FAQ-nova_plug_s400-06",
+    "text": "Product: Nova Plug S400\nQuestion: What if the device is still not working?\nAnswer: Record the model, firmware version, and displayed error code, then contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 42
+  },
+  {
+    "id": "FAQ-nova_plug_s400-07",
+    "text": "Product: Nova Plug S400\nQuestion: How do I reset network settings?\nAnswer: In the companion app open Device Settings > Network > Reset Network, then reconnect.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 43
+  },
+  {
+    "id": "FAQ-nova_plug_s400-08",
+    "text": "Product: Nova Plug S400\nQuestion: Why is my device not appearing in the app?\nAnswer: Confirm the device has power, Bluetooth permissions are enabled, and pairing mode is active.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 44
+  },
+  {
+    "id": "FAQ-nova_plug_s400-09",
+    "text": "Product: Nova Plug S400\nQuestion: Can I share access with a family member?\nAnswer: Open Device Settings > Share Access and invite a family member with an email address.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 45
+  },
+  {
+    "id": "FAQ-nova_plug_s400-10",
+    "text": "Product: Nova Plug S400\nQuestion: What is the warranty period?\nAnswer: The fictional standard limited warranty is 12 months from purchase for manufacturing defects.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 46
+  },
+  {
+    "id": "FAQ-nova_plug_s400-11",
+    "text": "Product: Nova Plug S400\nQuestion: What happens if the app loses connection?\nAnswer: Check the phone internet connection, device power, and router status before retrying.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 47
+  },
+  {
+    "id": "FAQ-nova_plug_s400-12",
+    "text": "Product: Nova Plug S400\nQuestion: How do I troubleshoot plug does not respond to schedules?\nAnswer: First verify the device time zone and enable the saved schedule. If unresolved, collect diagnostics and contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "Nova Plug S400",
+    "chunk_number": 0,
+    "line_number": 48
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-01",
+    "text": "Product: EchoLight Bulb B500\nQuestion: What does error E512 mean?\nAnswer: Error E512 indicates device unreachable. Recommended first steps: toggle the wall switch on, power cycle the bulb, and reconnect through the app.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 49
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-02",
+    "text": "Product: EchoLight Bulb B500\nQuestion: How do I fix device unreachable?\nAnswer: To address device unreachable, toggle the wall switch on, power cycle the bulb, and reconnect through the app.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 50
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-03",
+    "text": "Product: EchoLight Bulb B500\nQuestion: Can I use a 5 GHz Wi-Fi network?\nAnswer: Initial pairing requires a 2.4 GHz Wi-Fi network. Check your router configuration.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 51
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-04",
+    "text": "Product: EchoLight Bulb B500\nQuestion: How do I restart the device?\nAnswer: Disconnect power for 15 seconds, restore power, and wait up to two minutes.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 52
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-05",
+    "text": "Product: EchoLight Bulb B500\nQuestion: How do I update firmware?\nAnswer: Open the companion app, select the device, then Device Settings > Firmware Update.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 53
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-06",
+    "text": "Product: EchoLight Bulb B500\nQuestion: What if the device is still not working?\nAnswer: Record the model, firmware version, and displayed error code, then contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 54
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-07",
+    "text": "Product: EchoLight Bulb B500\nQuestion: How do I reset network settings?\nAnswer: In the companion app open Device Settings > Network > Reset Network, then reconnect.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 55
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-08",
+    "text": "Product: EchoLight Bulb B500\nQuestion: Why is my device not appearing in the app?\nAnswer: Confirm the device has power, Bluetooth permissions are enabled, and pairing mode is active.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 56
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-09",
+    "text": "Product: EchoLight Bulb B500\nQuestion: Can I share access with a family member?\nAnswer: Open Device Settings > Share Access and invite a family member with an email address.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 57
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-10",
+    "text": "Product: EchoLight Bulb B500\nQuestion: What is the warranty period?\nAnswer: The fictional standard limited warranty is 12 months from purchase for manufacturing defects.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 58
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-11",
+    "text": "Product: EchoLight Bulb B500\nQuestion: What happens if the app loses connection?\nAnswer: Check the phone internet connection, device power, and router status before retrying.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 59
+  },
+  {
+    "id": "FAQ-echolight_bulb_b500-12",
+    "text": "Product: EchoLight Bulb B500\nQuestion: How do I troubleshoot brightness changes unexpectedly?\nAnswer: First disable adaptive brightness and review saved automations. If unresolved, collect diagnostics and contact support.",
+    "source": "data/faqs/faqs.jsonl",
+    "document_type": "faqs",
+    "product": "EchoLight Bulb B500",
+    "chunk_number": 0,
+    "line_number": 60
+  },
+  {
+    "id": "d4f5063d9114fd2826eebd795879172e8ae484d58a3d56b3c1d9e53d917707b7",
+    "text": "# Aster Thermostat T100 | Product Manual (Synthetic)\n\nDocument ID: MAN-aster_thermostat_t100\nVersion: 1.0 | Fictional demo only\n\n## Overview\nThe Aster Thermostat T100 is a fictional thermostat for home use. It connects through the AsterHome companion app.\n\n## Setup\n1. Connect the device to power.\n2. Open the AsterHome app and choose Add Device.\n3. Pair using a 2.4 GHz Wi-Fi network.\n4. Confirm the device appears online.\n\n## Operation\nUse the companion app to view status, change preferences, and check firmware. Keep the device away from water and excessive heat.\n\n## Error codes\n### E204: Wi-Fi connection lost\nMeaning: Wi-Fi connection lost. Recommended action: check 2.4 GHz network, restart router, then reconnect in Settings > Network.\n\n## Known symptom\n### temperature readings appear inaccurate\nRecommended action: compare with a nearby thermometer after 20 minutes away from direct sunlight.",
+    "source": "data/manuals/aster_thermostat_t100.md",
+    "document_type": "manuals",
+    "chunk_number": 0
+  },
+  {
+    "id": "272e9a4fb221b4eadc2932971fa8a33ea4d8eb1baec5838c85d6da7d606301c3",
+    "text": "## Reset and maintenance\nRestart by removing power for 15 seconds. For network reset, select Device Settings > Network > Reset Network. Inspect the device monthly for visible damage.\n\n## Warranty and escalation\nFictional limited warranty: 12 months from purchase. If troubleshooting fails, provide model, firmware version, symptoms, and error code to support. Do not disassemble the device.",
+    "source": "data/manuals/aster_thermostat_t100.md",
+    "document_type": "manuals",
+    "chunk_number": 1
+  },
+  {
+    "id": "9f35c4ea97e11bcc9e6d8bb852fee15dcb514ef6162713e173bba88a6f1e82cd",
+    "text": "# Breeze Purifier P300 | Product Manual (Synthetic)\n\nDocument ID: MAN-breeze_purifier_p300\nVersion: 1.0 | Fictional demo only\n\n## Overview\nThe Breeze Purifier P300 is a fictional air purifier for home use. It connects through the AsterHome companion app.\n\n## Setup\n1. Connect the device to power.\n2. Open the AsterHome app and choose Add Device.\n3. Pair using a 2.4 GHz Wi-Fi network.\n4. Confirm the device appears online.\n\n## Operation\nUse the companion app to view status, change preferences, and check firmware. Keep the device away from water and excessive heat.\n\n## Error codes\n### E118: filter not detected\nMeaning: filter not detected. Recommended action: power off, reseat the filter, and close the cover securely.\n\n## Known symptom\n### airflow seems weak\nRecommended action: inspect the filter and clear blocked intake vents.",
+    "source": "data/manuals/breeze_purifier_p300.md",
+    "document_type": "manuals",
+    "chunk_number": 0
+  },
+  {
+    "id": "b8dee903344956f42292cf994faa3a0de0c000ac09aa42842bf7344e14d8acb2",
+    "text": "## Known symptom\n### airflow seems weak\nRecommended action: inspect the filter and clear blocked intake vents.\n\n## Reset and maintenance\nRestart by removing power for 15 seconds. For network reset, select Device Settings > Network > Reset Network. Inspect the device monthly for visible damage.\n\n## Warranty and escalation\nFictional limited warranty: 12 months from purchase. If troubleshooting fails, provide model, firmware version, symptoms, and error code to support. Do not disassemble the device.",
+    "source": "data/manuals/breeze_purifier_p300.md",
+    "document_type": "manuals",
+    "chunk_number": 1
+  },
+  {
+    "id": "48375465c033abc47d4d6ea96cf2781761d28b9ce14214273d9027e300b962d4",
+    "text": "# EchoLight Bulb B500 | Product Manual (Synthetic)\n\nDocument ID: MAN-echolight_bulb_b500\nVersion: 1.0 | Fictional demo only\n\n## Overview\nThe EchoLight Bulb B500 is a fictional smart bulb for home use. It connects through the AsterHome companion app.\n\n## Setup\n1. Connect the device to power.\n2. Open the AsterHome app and choose Add Device.\n3. Pair using a 2.4 GHz Wi-Fi network.\n4. Confirm the device appears online.\n\n## Operation\nUse the companion app to view status, change preferences, and check firmware. Keep the device away from water and excessive heat.\n\n## Error codes\n### E512: device unreachable\nMeaning: device unreachable. Recommended action: toggle the wall switch on, power cycle the bulb, and reconnect through the app.\n\n## Known symptom\n### brightness changes unexpectedly\nRecommended action: disable adaptive brightness and review saved automations.",
+    "source": "data/manuals/echolight_bulb_b500.md",
+    "document_type": "manuals",
+    "chunk_number": 0
+  },
+  {
+    "id": "83dc7354901940339b227e34c2f90b616c5daadd59c78c21eea9cd85561654ab",
+    "text": "## Known symptom\n### brightness changes unexpectedly\nRecommended action: disable adaptive brightness and review saved automations.\n\n## Reset and maintenance\nRestart by removing power for 15 seconds. For network reset, select Device Settings > Network > Reset Network. Inspect the device monthly for visible damage.\n\n## Warranty and escalation\nFictional limited warranty: 12 months from purchase. If troubleshooting fails, provide model, firmware version, symptoms, and error code to support. Do not disassemble the device.",
+    "source": "data/manuals/echolight_bulb_b500.md",
+    "document_type": "manuals",
+    "chunk_number": 1
+  },
+  {
+    "id": "4136ca4896bbcececb58f226d23a8b5b27e58ec2107a439f8b9a7015c2d60035",
+    "text": "# Luma Camera C200 | Product Manual (Synthetic)\n\nDocument ID: MAN-luma_camera_c200\nVersion: 1.0 | Fictional demo only\n\n## Overview\nThe Luma Camera C200 is a fictional security camera for home use. It connects through the AsterHome companion app.\n\n## Setup\n1. Connect the device to power.\n2. Open the AsterHome app and choose Add Device.\n3. Pair using a 2.4 GHz Wi-Fi network.\n4. Confirm the device appears online.\n\n## Operation\nUse the companion app to view status, change preferences, and check firmware. Keep the device away from water and excessive heat.\n\n## Error codes\n### E310: camera offline\nMeaning: camera offline. Recommended action: verify power LED, restart camera, then reconnect to 2.4 GHz Wi-Fi.\n\n## Known symptom\n### motion alerts are missing\nRecommended action: enable motion detection and notification permissions in the companion app.",
+    "source": "data/manuals/luma_camera_c200.md",
+    "document_type": "manuals",
+    "chunk_number": 0
+  },
+  {
+    "id": "afaa92990b7ff8044b67b1ccf48ca65bbd9f8d2d07147bb5dae5316440b85e53",
+    "text": "## Known symptom\n### motion alerts are missing\nRecommended action: enable motion detection and notification permissions in the companion app.\n\n## Reset and maintenance\nRestart by removing power for 15 seconds. For network reset, select Device Settings > Network > Reset Network. Inspect the device monthly for visible damage.\n\n## Warranty and escalation\nFictional limited warranty: 12 months from purchase. If troubleshooting fails, provide model, firmware version, symptoms, and error code to support. Do not disassemble the device.",
+    "source": "data/manuals/luma_camera_c200.md",
+    "document_type": "manuals",
+    "chunk_number": 1
+  },
+  {
+    "id": "a391387554e8593d9ea25c55e477a58b1bc8ef9d8d7bdf61547d017fc80e001f",
+    "text": "# Nova Plug S400 | Product Manual (Synthetic)\n\nDocument ID: MAN-nova_plug_s400\nVersion: 1.0 | Fictional demo only\n\n## Overview\nThe Nova Plug S400 is a fictional smart plug for home use. It connects through the AsterHome companion app.\n\n## Setup\n1. Connect the device to power.\n2. Open the AsterHome app and choose Add Device.\n3. Pair using a 2.4 GHz Wi-Fi network.\n4. Confirm the device appears online.\n\n## Operation\nUse the companion app to view status, change preferences, and check firmware. Keep the device away from water and excessive heat.\n\n## Error codes\n### E407: pairing unsuccessful\nMeaning: pairing unsuccessful. Recommended action: reset pairing mode by holding the button for five seconds and retry on 2.4 GHz Wi-Fi.\n\n## Known symptom\n### plug does not respond to schedules\nRecommended action: verify the device time zone and enable the saved schedule.",
+    "source": "data/manuals/nova_plug_s400.md",
+    "document_type": "manuals",
+    "chunk_number": 0
+  },
+  {
+    "id": "49ea3bbbe6f65352fde1562b02f08c0945fa81021d2a04d910ee8ab4438cd442",
+    "text": "## Known symptom\n### plug does not respond to schedules\nRecommended action: verify the device time zone and enable the saved schedule.\n\n## Reset and maintenance\nRestart by removing power for 15 seconds. For network reset, select Device Settings > Network > Reset Network. Inspect the device monthly for visible damage.\n\n## Warranty and escalation\nFictional limited warranty: 12 months from purchase. If troubleshooting fails, provide model, firmware version, symptoms, and error code to support. Do not disassemble the device.",
+    "source": "data/manuals/nova_plug_s400.md",
+    "document_type": "manuals",
+    "chunk_number": 1
+  },
+  {
+    "id": "bd8c9aa170a3dfc9d5b599c1d438af6f8262dc08f0635c37fce047fe8f1ae3e2",
+    "text": "# Aster Thermostat T100 | Error code E204\n\nGuide ID: TSG-aster_thermostat_t100-01\nProduct: Aster Thermostat T100\nSymptoms: Wi-Fi connection lost\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Check 2.4 GHz network, restart router, then reconnect in Settings > Network.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-01.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "676c4ccd9853a5303fd25ba1fe2b38848d512a80dbd32a68aca2f0665f274604",
+    "text": "# Aster Thermostat T100 | Cannot connect to Wi-Fi\n\nGuide ID: TSG-aster_thermostat_t100-02\nProduct: Aster Thermostat T100\nSymptoms: Wi-Fi pairing or connection issue\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm 2.4 GHz Wi-Fi, restart the router, and retry pairing.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-02.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "7b581f5f619e06b3b6ba3c8f136ba65d75f02c4da6b6d68321be79df2069cb4e",
+    "text": "# Aster Thermostat T100 | Device not responding\n\nGuide ID: TSG-aster_thermostat_t100-03\nProduct: Aster Thermostat T100\nSymptoms: Device appears unresponsive\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Disconnect power for 15 seconds, reconnect, and wait two minutes.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-03.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "1a47927c35355cc8a1434b2289adb667b451f1bf53063bde1b7e7da189fdfb33",
+    "text": "# Aster Thermostat T100 | Firmware update fails\n\nGuide ID: TSG-aster_thermostat_t100-04\nProduct: Aster Thermostat T100\nSymptoms: Firmware update cannot complete\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm stable Wi-Fi and retry from Device Settings > Firmware Update.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-04.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "e3b84af4b99ae178f8ac6dace099362eb222513902757f7f7972a4ffc72b5961",
+    "text": "# Aster Thermostat T100 | Missing from companion app\n\nGuide ID: TSG-aster_thermostat_t100-05\nProduct: Aster Thermostat T100\nSymptoms: Device not shown in the app\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Check power, app permissions, and pairing mode.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-05.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "fe1c6aa0ce196638d5529b7a9b60a0ef12c865bb04681db98e73c0db699bf59b",
+    "text": "# Aster Thermostat T100 | temperature readings appear inaccurate\n\nGuide ID: TSG-aster_thermostat_t100-06\nProduct: Aster Thermostat T100\nSymptoms: temperature readings appear inaccurate\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Compare with a nearby thermometer after 20 minutes away from direct sunlight.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-06.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "685e801c68a43d51b3f555812a76d3648f03f733e022c1e9cd8f84978f6042e1",
+    "text": "# Aster Thermostat T100 | Reset network settings\n\nGuide ID: TSG-aster_thermostat_t100-07\nProduct: Aster Thermostat T100\nSymptoms: Network credentials need resetting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Open Device Settings > Network > Reset Network and pair again.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-07.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "ed0c58c4243d063ce3c51e26f96eaeef127d8b51d984b8faae37d11913a25a14",
+    "text": "# Aster Thermostat T100 | When to escalate\n\nGuide ID: TSG-aster_thermostat_t100-08\nProduct: Aster Thermostat T100\nSymptoms: Problem persists after troubleshooting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Capture device model, firmware version, error code, and attempted steps; contact support.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-aster_thermostat_t100-08.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "75ee13010f98fe5a5162d620ba2e2da9780db5b7b46c5bb4df68d2c4ec0090a5",
+    "text": "# Breeze Purifier P300 | Error code E118\n\nGuide ID: TSG-breeze_purifier_p300-01\nProduct: Breeze Purifier P300\nSymptoms: filter not detected\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Power off, reseat the filter, and close the cover securely.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-01.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "f7fd0dd99913546d8e68b83a890d66c04dba1e549bad1c231e9842c1671b61d1",
+    "text": "# Breeze Purifier P300 | Cannot connect to Wi-Fi\n\nGuide ID: TSG-breeze_purifier_p300-02\nProduct: Breeze Purifier P300\nSymptoms: Wi-Fi pairing or connection issue\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm 2.4 GHz Wi-Fi, restart the router, and retry pairing.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-02.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "7248ec3f83e14cacb1c3921c1d620b483c2a3e7bae03230f52e0923b03a45632",
+    "text": "# Breeze Purifier P300 | Device not responding\n\nGuide ID: TSG-breeze_purifier_p300-03\nProduct: Breeze Purifier P300\nSymptoms: Device appears unresponsive\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Disconnect power for 15 seconds, reconnect, and wait two minutes.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-03.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "d58d1ba636c95fc1ee70d5d2b10c5f02c400a7c2e9b91189ce54ea5696b231db",
+    "text": "# Breeze Purifier P300 | Firmware update fails\n\nGuide ID: TSG-breeze_purifier_p300-04\nProduct: Breeze Purifier P300\nSymptoms: Firmware update cannot complete\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm stable Wi-Fi and retry from Device Settings > Firmware Update.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-04.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "af43b658ea12de42000512e8eb80032d70b58d0480793b69a9ceb01f517ea9e9",
+    "text": "# Breeze Purifier P300 | Missing from companion app\n\nGuide ID: TSG-breeze_purifier_p300-05\nProduct: Breeze Purifier P300\nSymptoms: Device not shown in the app\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Check power, app permissions, and pairing mode.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-05.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "ce5b67284d21bc8e4a9d782b93b3e695d82770e2b96a08bca26d982f1c20e163",
+    "text": "# Breeze Purifier P300 | airflow seems weak\n\nGuide ID: TSG-breeze_purifier_p300-06\nProduct: Breeze Purifier P300\nSymptoms: airflow seems weak\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Inspect the filter and clear blocked intake vents.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-06.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "3c73b8958bb848c7af79cf44fcd060aaf9d6e0ff3f4de3c86cbd2bc83060bec4",
+    "text": "# Breeze Purifier P300 | Reset network settings\n\nGuide ID: TSG-breeze_purifier_p300-07\nProduct: Breeze Purifier P300\nSymptoms: Network credentials need resetting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Open Device Settings > Network > Reset Network and pair again.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-07.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "101e8fe85b27e30cedde3a344bf51a926c0c14268f2d35ad37d84a2a38ee11e7",
+    "text": "# Breeze Purifier P300 | When to escalate\n\nGuide ID: TSG-breeze_purifier_p300-08\nProduct: Breeze Purifier P300\nSymptoms: Problem persists after troubleshooting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Capture device model, firmware version, error code, and attempted steps; contact support.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-breeze_purifier_p300-08.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "a5c572ef9131aa5c110c3e50fc43f4948e72ab2e485add59e1bb4974de4ba7e0",
+    "text": "# EchoLight Bulb B500 | Error code E512\n\nGuide ID: TSG-echolight_bulb_b500-01\nProduct: EchoLight Bulb B500\nSymptoms: device unreachable\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Toggle the wall switch on, power cycle the bulb, and reconnect through the app.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-01.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "d8a488bd6092f6da299820f07d0a5202bd7b54be964752657324ed52c22df449",
+    "text": "# EchoLight Bulb B500 | Cannot connect to Wi-Fi\n\nGuide ID: TSG-echolight_bulb_b500-02\nProduct: EchoLight Bulb B500\nSymptoms: Wi-Fi pairing or connection issue\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm 2.4 GHz Wi-Fi, restart the router, and retry pairing.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-02.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "567e058b1f481463cef3d51557a7e50fc42ccdadf0785e91f1d1d1a96f1e32ea",
+    "text": "# EchoLight Bulb B500 | Device not responding\n\nGuide ID: TSG-echolight_bulb_b500-03\nProduct: EchoLight Bulb B500\nSymptoms: Device appears unresponsive\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Disconnect power for 15 seconds, reconnect, and wait two minutes.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-03.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "9cf66c887a0159e8722f53fda9981bef57e9b4ae7d15533e860c388a589754bc",
+    "text": "# EchoLight Bulb B500 | Firmware update fails\n\nGuide ID: TSG-echolight_bulb_b500-04\nProduct: EchoLight Bulb B500\nSymptoms: Firmware update cannot complete\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm stable Wi-Fi and retry from Device Settings > Firmware Update.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-04.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "79ddb9d1f1b69d555f9484b2f4aa657add16cffdae344177f1c187a5fa6f4dae",
+    "text": "# EchoLight Bulb B500 | Missing from companion app\n\nGuide ID: TSG-echolight_bulb_b500-05\nProduct: EchoLight Bulb B500\nSymptoms: Device not shown in the app\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Check power, app permissions, and pairing mode.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-05.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "1fab4685d0f8118b2fda94e3b17d742aeebe0c5e17c779dbe546914a07f2db80",
+    "text": "# EchoLight Bulb B500 | brightness changes unexpectedly\n\nGuide ID: TSG-echolight_bulb_b500-06\nProduct: EchoLight Bulb B500\nSymptoms: brightness changes unexpectedly\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Disable adaptive brightness and review saved automations.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-06.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "f54dcae19dde12c7edb1d818de939209fda14a57f829ea8ad48d94afab20a499",
+    "text": "# EchoLight Bulb B500 | Reset network settings\n\nGuide ID: TSG-echolight_bulb_b500-07\nProduct: EchoLight Bulb B500\nSymptoms: Network credentials need resetting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Open Device Settings > Network > Reset Network and pair again.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-07.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "b8554f6810c04debbdf99b8bd87863b88b69cd9b2207eef6804b03523023930a",
+    "text": "# EchoLight Bulb B500 | When to escalate\n\nGuide ID: TSG-echolight_bulb_b500-08\nProduct: EchoLight Bulb B500\nSymptoms: Problem persists after troubleshooting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Capture device model, firmware version, error code, and attempted steps; contact support.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-echolight_bulb_b500-08.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "f2091b5db349b4362df54ce27f6c83ce3c2ed9cbd57753e98386afcee24e452d",
+    "text": "# Luma Camera C200 | Error code E310\n\nGuide ID: TSG-luma_camera_c200-01\nProduct: Luma Camera C200\nSymptoms: camera offline\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Verify power LED, restart camera, then reconnect to 2.4 GHz Wi-Fi.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-01.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "70625652e807a2287063cfdc82856b4ced8a88a0650e9082ebaddf4114a6e7ed",
+    "text": "# Luma Camera C200 | Cannot connect to Wi-Fi\n\nGuide ID: TSG-luma_camera_c200-02\nProduct: Luma Camera C200\nSymptoms: Wi-Fi pairing or connection issue\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm 2.4 GHz Wi-Fi, restart the router, and retry pairing.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-02.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "54248eae44662d64bb5e2857d223d9eae4bb53158f4bd55a30003f02fbf91de0",
+    "text": "# Luma Camera C200 | Device not responding\n\nGuide ID: TSG-luma_camera_c200-03\nProduct: Luma Camera C200\nSymptoms: Device appears unresponsive\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Disconnect power for 15 seconds, reconnect, and wait two minutes.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-03.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "f770602c5bb1952170559c89cab108a2bda9e4b8012d90cf282f3ebfe8ebd136",
+    "text": "# Luma Camera C200 | Firmware update fails\n\nGuide ID: TSG-luma_camera_c200-04\nProduct: Luma Camera C200\nSymptoms: Firmware update cannot complete\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm stable Wi-Fi and retry from Device Settings > Firmware Update.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-04.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "ef94389b88921b1318b408ad525b645220ebf97090f9ec6cc75a28ba12d7b4a4",
+    "text": "# Luma Camera C200 | Missing from companion app\n\nGuide ID: TSG-luma_camera_c200-05\nProduct: Luma Camera C200\nSymptoms: Device not shown in the app\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Check power, app permissions, and pairing mode.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-05.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "6685416da80664175135d348da36984930d2c1a239c51d4bde47e05e89229e08",
+    "text": "# Luma Camera C200 | motion alerts are missing\n\nGuide ID: TSG-luma_camera_c200-06\nProduct: Luma Camera C200\nSymptoms: motion alerts are missing\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Enable motion detection and notification permissions in the companion app.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-06.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "db3bcb47b9a9af3ff1d0a24bdf814f0f516e59d259bc3b4b201f7906cc7e5fd2",
+    "text": "# Luma Camera C200 | Reset network settings\n\nGuide ID: TSG-luma_camera_c200-07\nProduct: Luma Camera C200\nSymptoms: Network credentials need resetting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Open Device Settings > Network > Reset Network and pair again.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-07.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "03be69b933db782b7d3820c5e8c2c84380219512e4f2a7ff57fcdccf963cb99d",
+    "text": "# Luma Camera C200 | When to escalate\n\nGuide ID: TSG-luma_camera_c200-08\nProduct: Luma Camera C200\nSymptoms: Problem persists after troubleshooting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Capture device model, firmware version, error code, and attempted steps; contact support.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-luma_camera_c200-08.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "adfd4b23cf59fc6ab8c729a344f4b453e25a36448532210c63fb6ddbcec6bc0f",
+    "text": "# Nova Plug S400 | Error code E407\n\nGuide ID: TSG-nova_plug_s400-01\nProduct: Nova Plug S400\nSymptoms: pairing unsuccessful\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Reset pairing mode by holding the button for five seconds and retry on 2.4 GHz Wi-Fi.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-01.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "6baf8c5b7a94a05226286f3c3a262ece7561123d7f1006beac30db3376089349",
+    "text": "# Nova Plug S400 | Cannot connect to Wi-Fi\n\nGuide ID: TSG-nova_plug_s400-02\nProduct: Nova Plug S400\nSymptoms: Wi-Fi pairing or connection issue\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm 2.4 GHz Wi-Fi, restart the router, and retry pairing.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-02.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "dcefb0481bb27512143f462ecbab9e3c393a937a7a2eef0ee8bc47c55e97dee4",
+    "text": "# Nova Plug S400 | Device not responding\n\nGuide ID: TSG-nova_plug_s400-03\nProduct: Nova Plug S400\nSymptoms: Device appears unresponsive\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Disconnect power for 15 seconds, reconnect, and wait two minutes.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-03.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "d1248bd3d1c05f0755b64ad06de9b11324760f08125f43ad59592d8c8380e35e",
+    "text": "# Nova Plug S400 | Firmware update fails\n\nGuide ID: TSG-nova_plug_s400-04\nProduct: Nova Plug S400\nSymptoms: Firmware update cannot complete\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Confirm stable Wi-Fi and retry from Device Settings > Firmware Update.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-04.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "c8b7359f2ef5d933651c8092c78214850a4b74e8ec52ddeb3c02bbc7e724c941",
+    "text": "# Nova Plug S400 | Missing from companion app\n\nGuide ID: TSG-nova_plug_s400-05\nProduct: Nova Plug S400\nSymptoms: Device not shown in the app\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Check power, app permissions, and pairing mode.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-05.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "e9906a22eea29f84d1569ca64a9594eb7e6b3616593477a879f2436e47d1a661",
+    "text": "# Nova Plug S400 | plug does not respond to schedules\n\nGuide ID: TSG-nova_plug_s400-06\nProduct: Nova Plug S400\nSymptoms: plug does not respond to schedules\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Verify the device time zone and enable the saved schedule.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-06.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "ab4844e5d5f452e3ac825a54559ac88e3c017a7608378a0314aaf4509baf2892",
+    "text": "# Nova Plug S400 | Reset network settings\n\nGuide ID: TSG-nova_plug_s400-07\nProduct: Nova Plug S400\nSymptoms: Network credentials need resetting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Open Device Settings > Network > Reset Network and pair again.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-07.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  },
+  {
+    "id": "27452ab2ce209b6fbcc364d7ef1e77c24605cd86744a50144cc767fb49c53de4",
+    "text": "# Nova Plug S400 | When to escalate\n\nGuide ID: TSG-nova_plug_s400-08\nProduct: Nova Plug S400\nSymptoms: Problem persists after troubleshooting\n\n## Resolution procedure\n1. Confirm the device is powered and identify the exact model.\n2. Capture device model, firmware version, error code, and attempted steps; contact support.\n3. Wait two minutes and check whether the issue is resolved.\n4. If unresolved, capture the error code and firmware version, then contact support.\n\n## Escalation criteria\nEscalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.",
+    "source": "data/troubleshooting/TSG-nova_plug_s400-08.md",
+    "document_type": "troubleshooting",
+    "chunk_number": 0
+  }
+]

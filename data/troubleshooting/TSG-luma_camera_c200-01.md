@@ -1,0 +1,14 @@
+# Luma Camera C200 | Error code E310
+
+Guide ID: TSG-luma_camera_c200-01
+Product: Luma Camera C200
+Symptoms: camera offline
+
+## Resolution procedure
+1. Confirm the device is powered and identify the exact model.
+2. Verify power LED, restart camera, then reconnect to 2.4 GHz Wi-Fi.
+3. Wait two minutes and check whether the issue is resolved.
+4. If unresolved, capture the error code and firmware version, then contact support.
+
+## Escalation criteria
+Escalate if the issue persists after these steps or the device shows visible damage. Do not disassemble the device.

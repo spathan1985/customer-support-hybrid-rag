@@ -1,0 +1,5 @@
+method,questions,hit_at_5,recall_at_5,mrr_at_5
+semantic,25,0.92,0.72,0.9
+bm25,25,0.88,0.6933333333333334,0.7746666666666666
+hybrid_rrf,25,0.88,0.6799999999999999,0.828
+hybrid_reranked,25,1,1.0,1.0

@@ -1,0 +1,272 @@
+[
+  {
+    "document_id": "MAN-aster_thermostat_t100",
+    "type": "manual",
+    "product": "Aster Thermostat T100",
+    "path": "manuals/aster_thermostat_t100.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-01",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-01.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-02",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-02.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-03",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-03.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-04",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-04.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-05",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-05.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-06",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-06.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-07",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-07.md"
+  },
+  {
+    "document_id": "TSG-aster_thermostat_t100-08",
+    "type": "troubleshooting",
+    "product": "Aster Thermostat T100",
+    "path": "troubleshooting/TSG-aster_thermostat_t100-08.md"
+  },
+  {
+    "document_id": "MAN-luma_camera_c200",
+    "type": "manual",
+    "product": "Luma Camera C200",
+    "path": "manuals/luma_camera_c200.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-01",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-01.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-02",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-02.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-03",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-03.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-04",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-04.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-05",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-05.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-06",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-06.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-07",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-07.md"
+  },
+  {
+    "document_id": "TSG-luma_camera_c200-08",
+    "type": "troubleshooting",
+    "product": "Luma Camera C200",
+    "path": "troubleshooting/TSG-luma_camera_c200-08.md"
+  },
+  {
+    "document_id": "MAN-breeze_purifier_p300",
+    "type": "manual",
+    "product": "Breeze Purifier P300",
+    "path": "manuals/breeze_purifier_p300.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-01",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-01.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-02",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-02.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-03",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-03.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-04",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-04.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-05",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-05.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-06",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-06.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-07",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-07.md"
+  },
+  {
+    "document_id": "TSG-breeze_purifier_p300-08",
+    "type": "troubleshooting",
+    "product": "Breeze Purifier P300",
+    "path": "troubleshooting/TSG-breeze_purifier_p300-08.md"
+  },
+  {
+    "document_id": "MAN-nova_plug_s400",
+    "type": "manual",
+    "product": "Nova Plug S400",
+    "path": "manuals/nova_plug_s400.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-01",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-01.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-02",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-02.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-03",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-03.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-04",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-04.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-05",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-05.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-06",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-06.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-07",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-07.md"
+  },
+  {
+    "document_id": "TSG-nova_plug_s400-08",
+    "type": "troubleshooting",
+    "product": "Nova Plug S400",
+    "path": "troubleshooting/TSG-nova_plug_s400-08.md"
+  },
+  {
+    "document_id": "MAN-echolight_bulb_b500",
+    "type": "manual",
+    "product": "EchoLight Bulb B500",
+    "path": "manuals/echolight_bulb_b500.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-01",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-01.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-02",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-02.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-03",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-03.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-04",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-04.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-05",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-05.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-06",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-06.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-07",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-07.md"
+  },
+  {
+    "document_id": "TSG-echolight_bulb_b500-08",
+    "type": "troubleshooting",
+    "product": "EchoLight Bulb B500",
+    "path": "troubleshooting/TSG-echolight_bulb_b500-08.md"
+  }
+]

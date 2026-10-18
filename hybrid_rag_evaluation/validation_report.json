@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "questions": 30,
+  "categories": {
+    "direct_answerable": 10,
+    "paraphrased": 10,
+    "exact_error_code": 5,
+    "unanswerable": 5
+  },
+  "products": 5,
+  "unique_gold_source_ids": 31,
+  "logical_corpus_documents": 105,
+  "indexable_files": 46,
+  "live_index": {
+    "status": "not_checked"
+  },
+  "errors": []
+}

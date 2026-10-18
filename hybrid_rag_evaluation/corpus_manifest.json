@@ -1,0 +1,249 @@
+{
+  "archive_name": "synthetic_support_rag_dataset.zip",
+  "archive_sha256": "39abec5563d72fa9ff4a29ad3a6ada56a5a9c80594f0ac149adf74311904804e",
+  "verified_date": "2026-10-18",
+  "reference_root": "reference_corpus",
+  "logical_documents": 105,
+  "indexable_files": 46,
+  "excluded": [
+    "tickets.csv",
+    "README.md"
+  ],
+  "files": [
+    {
+      "path": "faqs/faqs.jsonl",
+      "sha256": "b59253b034aaf97be379c514c300cf15e3254872a06bd9e7c43870990e3e227f",
+      "bytes": 15003
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "5d67dfb416c0192437eef73262f718abf99316c10928001bbee9a5a4a45a58dd",
+      "bytes": 8147
+    },
+    {
+      "path": "manuals/aster_thermostat_t100.md",
+      "sha256": "6043928ef68956f3e700ed764eca532c3665693652445f0faa018f711042a7a5",
+      "bytes": 1296
+    },
+    {
+      "path": "manuals/breeze_purifier_p300.md",
+      "sha256": "e14c2b38619aace483e842f6b6744b380c5129981f48686ab844e0549ed4e641",
+      "bytes": 1227
+    },
+    {
+      "path": "manuals/echolight_bulb_b500.md",
+      "sha256": "ef27f14bdc944bb05674d4b437e3444645a3beda760b26449bf77e610fe8e34e",
+      "bytes": 1260
+    },
+    {
+      "path": "manuals/luma_camera_c200.md",
+      "sha256": "4ffbdb5bf8f5c645c7997a783174d3f33bc5a48e568c9e0def290e8a865ebc82",
+      "bytes": 1246
+    },
+    {
+      "path": "manuals/nova_plug_s400.md",
+      "sha256": "906e958e803ee2f6d8c54d8032f96d15682889c950b599381305eea9cbf3fe7f",
+      "bytes": 1259
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-01.md",
+      "sha256": "1abab9d8904d625fe82cd4e350073aa2446ed1e52a8ec8c428ce5f3d92950739",
+      "bytes": 599
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-02.md",
+      "sha256": "f95eff60c3b909801bd6837887eb224058cd4ff4d87913d4222db370f8f8a45c",
+      "bytes": 604
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-03.md",
+      "sha256": "ee9ac96e2775a82f0c59f899e94dceff1499460d0f0f2608cf0473c841985f3f",
+      "bytes": 600
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-04.md",
+      "sha256": "2187296df7c686b721e64fa7ed8d641a19d0c193e2d9a306a36728d826b4a699",
+      "bytes": 609
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-05.md",
+      "sha256": "70350c70f510a9fb0b347d3f7cb386597656fd5984c90da44d8b49649b0d3175",
+      "bytes": 587
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-06.md",
+      "sha256": "1b039bb15cee97b00b0160aa6bd584ca5e71e1596164d0c38b5a3381e505687c",
+      "bytes": 640
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-07.md",
+      "sha256": "a7ec8b6cd7400caba18144fb9adb6836d4bf92df67025a2c6a8d02ada3141a40",
+      "bytes": 605
+    },
+    {
+      "path": "troubleshooting/TSG-aster_thermostat_t100-08.md",
+      "sha256": "b8ffc5fd10d2e4fce1277f3633b3505684f9e2cbdba78f6c0583eea19edff4ec",
+      "bytes": 630
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-01.md",
+      "sha256": "02956cd0157af894d393c48171bf4315606b4311fc43a4f50b6d888a4c84f6d3",
+      "bytes": 577
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-02.md",
+      "sha256": "585c87c5adef9e1f2391a8ad514042d7cb4ba54de03f4056f6830cc3d1343cdd",
+      "bytes": 601
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-03.md",
+      "sha256": "7cd373e623ec23178de644c7bf364e0bc16eae206f7e36a6cb01f6bdbe23c061",
+      "bytes": 597
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-04.md",
+      "sha256": "e9400b6d164d2eac089db661df4644930f1eebffee095b61a5e0762a95666f29",
+      "bytes": 606
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-05.md",
+      "sha256": "e8e912d85c84be3402053a46fa2634f464e4b50f9d3d6a82e6f618c259ba39b5",
+      "bytes": 584
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-06.md",
+      "sha256": "a59fa3837d5124fec04a87947ffde3783a9fa675baa3c44fdad39bf6af6d1c18",
+      "bytes": 570
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-07.md",
+      "sha256": "26b01fb3a5f7169b0bdbd3dc69dac658e79ac111ba98c278b78959b5ae23f82b",
+      "bytes": 602
+    },
+    {
+      "path": "troubleshooting/TSG-breeze_purifier_p300-08.md",
+      "sha256": "3538e65115a505614fd223d43653dcdf0d44133ecf306f6693e9d03ef6e5f6b1",
+      "bytes": 627
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-01.md",
+      "sha256": "2918d04aed6ad0c1272f1457a7d283c5ae06f4fba3ab332d325299f74a120805",
+      "bytes": 593
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-02.md",
+      "sha256": "2bd1ff38d9efe5075c1d30897ed1f8589f2632844eb388ca8e5a6332ede886b6",
+      "bytes": 598
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-03.md",
+      "sha256": "08d8b91f35a863781bc9df4421ec784a9caa0d769b8ed9798fa4fd89612d6f8c",
+      "bytes": 594
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-04.md",
+      "sha256": "92ab47c9b8e8ef6d27d568c75144bd43c621f11bc5019e20f5b966463f1ee20e",
+      "bytes": 603
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-05.md",
+      "sha256": "e41441057dc1cda1fb57fb5b0a1c5d5e2b339945310dbd7abf205de53187d5dc",
+      "bytes": 581
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-06.md",
+      "sha256": "25e227fab92acbc9dd56f831fa623e865497fb7aa8516358ef94afb371fa8699",
+      "bytes": 600
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-07.md",
+      "sha256": "8b71b715e873467b3da8f2c2df3eff9f38e74898a645a046587737411ae8b3b7",
+      "bytes": 599
+    },
+    {
+      "path": "troubleshooting/TSG-echolight_bulb_b500-08.md",
+      "sha256": "02cc21b0111690c9ca06b38360e5d662f54371207a4d4aedc3c765010b1c4a20",
+      "bytes": 624
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-01.md",
+      "sha256": "5b57c83dd0cfc991594ed17971847bee27029266562d496d93c5969c71c651b7",
+      "bytes": 567
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-02.md",
+      "sha256": "ff23e6212051fecd0c4d3e5b889f992a6e7ce9eeaae4a6eabd4b69fd944097be",
+      "bytes": 589
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-03.md",
+      "sha256": "ae25024be6c941579e3e9b7659ddbba0865dfc6db8779b3ebd88b72636771606",
+      "bytes": 585
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-04.md",
+      "sha256": "8e4712b0c1b3f30a4e67a41feffa280334c72e4da51700239579d79153acaf1b",
+      "bytes": 594
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-05.md",
+      "sha256": "e845d59d2dbd04dafa1f1f0f01893d60db39d13acf75e888772b8474af4a0938",
+      "bytes": 572
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-06.md",
+      "sha256": "f28262b1a3eb6c20555d9c2454983c0f0a507d2c5048d8efc136600a35bc4e15",
+      "bytes": 596
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-07.md",
+      "sha256": "17b04cf22ce76d6b79a50373717d22ce2a68e23d531e8c99ea27ed1897c98cce",
+      "bytes": 590
+    },
+    {
+      "path": "troubleshooting/TSG-luma_camera_c200-08.md",
+      "sha256": "18093441a0b23299fe910e711fe3c524a54f29a50233af3acbabfc4211ff74fa",
+      "bytes": 615
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-01.md",
+      "sha256": "ee26fc3fef50bb0737eb3d5f2bede78700c88eb58e2e579ec7000156565eeed6",
+      "bytes": 586
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-02.md",
+      "sha256": "833fd2fa0579254c876669cad0155fd4bcc0c43cb869736a1890f59053afafd2",
+      "bytes": 583
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-03.md",
+      "sha256": "4a03cf400c8571ec29a2695ce94665e60b8e465818f37784b3477324caf570fb",
+      "bytes": 579
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-04.md",
+      "sha256": "1b7ed5952607e50ff8412259edb96df70cd32f3676cd72a257c0f0512ad0504e",
+      "bytes": 588
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-05.md",
+      "sha256": "dd3f74bc66a9b05e2e49a49079f60933ba5f6e3f8b95b8dce6deb25a22f63063",
+      "bytes": 566
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-06.md",
+      "sha256": "5ed4a6729acb472eed55a22ba02d62b246d86a95e294341a99b76c2e978e0b0b",
+      "bytes": 592
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-07.md",
+      "sha256": "f3bcda23399d336927d0ec4de87ff69efd01106a31a4e4463375ffed627ee28b",
+      "bytes": 584
+    },
+    {
+      "path": "troubleshooting/TSG-nova_plug_s400-08.md",
+      "sha256": "b13bb4e12ee840d7173746d3ea344c73efc5f8841bead2eb9df12673651f0687",
+      "bytes": 609
+    }
+  ]
+}

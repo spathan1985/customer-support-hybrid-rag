@@ -1,0 +1,32 @@
+[
+  {
+    "case": "valid_pack",
+    "exit_code": 0,
+    "result": "PASS"
+  },
+  {
+    "case": "missing_source",
+    "exit_code": 1,
+    "result": "FAIL"
+  },
+  {
+    "case": "missing_category_coverage",
+    "exit_code": 1,
+    "result": "FAIL"
+  },
+  {
+    "case": "clean_index_inventory",
+    "exit_code": 0,
+    "result": "PASS"
+  },
+  {
+    "case": "ticket_leakage",
+    "exit_code": 1,
+    "result": "FAIL"
+  },
+  {
+    "case": "wrong_faq_identity",
+    "exit_code": 1,
+    "result": "FAIL"
+  }
+]
